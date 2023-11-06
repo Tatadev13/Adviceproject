@@ -29,9 +29,12 @@ const Advice = () => {
   
     return (
       <div>
+
         <Button onClick={openModal} variant="contained" color="primary" >
           Get Advice
         </Button>
+
+
         <AdviceModal isOpen={modalIsOpen} onClose={closeModal} advice={advice} />
 
         <p>
