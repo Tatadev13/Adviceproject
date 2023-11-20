@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tatadev13.github.io/Adviceproject.git/static/css/main.7ae7deb3.css",
+    "main.js": "/Tatadev13.github.io/Adviceproject.git/static/js/main.d0d90e96.js",
+    "static/js/787.4ab2098a.chunk.js": "/Tatadev13.github.io/Adviceproject.git/static/js/787.4ab2098a.chunk.js",
+    "index.html": "/Tatadev13.github.io/Adviceproject.git/index.html",
+    "main.7ae7deb3.css.map": "/Tatadev13.github.io/Adviceproject.git/static/css/main.7ae7deb3.css.map",
+    "main.d0d90e96.js.map": "/Tatadev13.github.io/Adviceproject.git/static/js/main.d0d90e96.js.map",
+    "787.4ab2098a.chunk.js.map": "/Tatadev13.github.io/Adviceproject.git/static/js/787.4ab2098a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae7deb3.css",
+    "static/js/main.d0d90e96.js"
+  ]
+}
